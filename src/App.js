@@ -5,7 +5,7 @@ function App() {
   return (  
   
     <div className="App">
-<img src={fitness} className='sidebar' alt="logo" width='500px' height='685px' />
+<img src={fitness} className='sidebar' alt="logo" width='500px' height='688px' />
 
 
 <div className="wrapper">
