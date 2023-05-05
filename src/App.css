@@ -109,7 +109,7 @@ button {
     form input {
         border: 1px solid #D6D9DC;
         border-radius: 4px;
-        padding: 0px;
+        padding: 3px;
         font-size: 10px;
     }
 }
