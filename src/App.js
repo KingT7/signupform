@@ -61,7 +61,8 @@ Are you looking for someone to help motivate you? <br/>
 
 <div className="contentContainer">
 
-<div className="space"><label for='pass'>PASSWORD</label>
+<div className="space">
+<label for='pass'>PASSWORD</label>
 <input type='password' name='pass' placeholder='Enter password' />
 </div>
 
