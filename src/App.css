@@ -99,7 +99,7 @@ button {
         padding: 2%;
         display: flex;
         flex-direction: row;
-        width: -100%;
+        width: -110%;
     }
     .space {
         margin-left: 0%;
